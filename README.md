@@ -1,4 +1,4 @@
-Vértice Livraria
+Vertex Livraria
 
 Sistema desktop desenvolvido em C# utilizando Windows Forms e banco de dados MySQL.
 
